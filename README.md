@@ -21,3 +21,12 @@ Si tienes alguna consulta o te gustaría colaborar en algún proyecto, no dudes 
 
 Correo Electrónico: ayelencabral22@gmail.com
 ¡Espero tener la oportunidad de colaborar contigo en el futuro!
+My Skills Java
+
+My Skills JavaScript
+
+My Skills Python
+
+My Skills HTML
+
+My Skills CSS
