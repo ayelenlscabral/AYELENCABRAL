@@ -12,11 +12,12 @@ Bases de Datos: SQL, MongoDB
 Control de Versiones: Git, GitHub
 Metodologías Ágiles: Scrum, Kanban
 Educación
-Tecnicatura Universitaria en Programación - UTN San Rafael, Mendoza (En curso, finalización en 2023)
+
 Idiomas
 Español (Nativo)
 Inglés (Avanzado)
-Contacto
+
+Contacto:
 Si tienes alguna consulta o te gustaría colaborar en algún proyecto, no dudes en contactarme:
 
 Correo Electrónico: ayelencabral22@gmail.com
