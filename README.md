@@ -1,11 +1,9 @@
 # AYELENCABRAL
 MI REPOSITORIO PERSONAL
 
-Estudiante de la Tecnicatura Universitaria en Programación en UTN San Rafael, Mendoza
-¡Hola! Soy Ayelen Cabral, estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN) en San Rafael, Mendoza. Actualmente, estoy cursando mi carrera y espero finalizarla en 2023. También formo parte de un emocionante proyecto en colaboración con el grupo de programación de UTN, donde trabajamos en el desarrollo de soluciones innovadoras en un entorno académico.
-
-Habilidades Técnicas
-Lenguajes de Programación:## Lenguajes de programacion Utilizados:
+¡Hola! Soy Ayelen Cabral, estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN) en San Rafael, Mendoza. 
+También formo parte de un emocionante proyecto en colaboración con el grupo de programación de UTN, donde trabajamos en el desarrollo de soluciones innovadoras en un entorno académico.
+Lenguajes de programacion Utilizados:
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
 
@@ -16,13 +14,12 @@ Lenguajes de Programación:## Lenguajes de programacion Utilizados:
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) HTML
 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
-
+Habilidades Técnicas:
 Frontend: React
 Backend: Node.js, Express.js
 Bases de Datos: SQL, MongoDB
 Control de Versiones: Git, GitHub
-Metodologías Ágiles: Scrum, Kanban
-Educación
+Metodologías Ágiles: Scrum.
 
 Idiomas
 Español (Nativo)
