@@ -1,11 +1,21 @@
-# AYELENCABRAL
-MI REPOSITORIO PERSONAL
+# ¡Hola, soy Ayelen !
 
-Estudiante de la Tecnicatura Universitaria en Programación en UTN San Rafael, Mendoza
-¡Hola! Soy Ayelen Cabral, estudiante de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN) en San Rafael, Mendoza. Actualmente, estoy cursando mi carrera y espero finalizarla en 2023. También formo parte de un emocionante proyecto en colaboración con el grupo de programación de UTN, donde trabajamos en el desarrollo de soluciones innovadoras en un entorno académico.
+## Acerca de mí
 
-Lenguajes de Programación:##
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) Java
+Soy un apasionada estudiante de Tecnicatura Universitaria en Programación en la UTN San Rafael, Argentina. Mi enfoque principal está en el desarrollo de sitios web, donde combino habilidades técnicas con el diseño de la experiencia del cliente para crear experiencias web excepcionales.
+
+Actualmente, también estoy cursando una Diplomatura en Desarrollo de Videojuegos en la Universidad de Avellaneda. Mi amor por la programación se extiende al mundo de los videojuegos, donde busco explorar y crear experiencias interactivas emocionantes.
+
+## Habilidades
+
+- Desarrollo web front-end y back-end
+- Diseño de la experiencia del cliente (UX/UI)
+- Lenguajes de programación: HTML, CSS, JavaScript, Python
+- Frameworks y bibliotecas: React, Node.js, Django
+- Creación y gestión de bases de datos
+- Desarrollo de videojuegos y gráficos interactivos
+- Colaboración en equipos de desarrollo
+- Solución de problemas y aprendizaje continuo
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) JavaScript
 
@@ -15,16 +25,11 @@ Lenguajes de Programación:##
 
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) CSS
 
-Frontend: React
-Backend: Node.js, Express.js
-Bases de Datos: SQL, MongoDB
-Control de Versiones: Git, GitHub
-Metodologías Ágiles: Scrum, Kanban
-Educación
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
-Idiomas
-Español (Nativo)
-Inglés (Avanzado)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 Contacto:
 Si tienes alguna consulta o te gustaría colaborar en algún proyecto, no dudes en contactarme:
